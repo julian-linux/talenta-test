@@ -1,0 +1,1 @@
+in console run `node .` and open localhost:3000
